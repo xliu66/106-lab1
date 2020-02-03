@@ -1,0 +1,48 @@
+h1{
+    color:rgb(16, 51, 3);
+    font-family: 'Sigmar One', cursive;
+    text-align: center;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+label{
+    font-family: 'Sigmar One', cursive;
+}
+
+div{
+    padding: 10px;
+    background-color:#fafafa ;
+    width: 100%;
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+div .but1{
+    float: right;
+}
+div .inp1{
+    width:78%;
+}
+
+ul{
+    padding: 15px 15px;
+    border:1px solid #eee;
+}
+
+ul li{
+    padding: 10px;
+    margin-top: 70px 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #fafafa;
+}
+
+ul li:hover{
+    border: 3px solid #0d2eeb;
+}
+
+ul li button{
+    float: right;
+}
